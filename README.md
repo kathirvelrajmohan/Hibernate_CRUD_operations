@@ -1,4 +1,4 @@
-# Hibernate CRUD Application
+# Hibernate CRUD Operations
 
 This is a simple Hibernate application using PostgreSQL, built with Maven in IntelliJ IDEA. The project demonstrates basic CRUD (Create, Read, Update, Delete) operations with Hibernate.
 
